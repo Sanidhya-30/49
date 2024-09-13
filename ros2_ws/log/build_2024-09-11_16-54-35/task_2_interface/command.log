@@ -1,4 +1,0 @@
-Invoking command in '/home/lucifer/ros2_ws/build/task_2_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/lucifer/ros2_ws/build/task_2_interface -- -j12 -l12
-Invoked command in '/home/lucifer/ros2_ws/build/task_2_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/lucifer/ros2_ws/build/task_2_interface -- -j12 -l12
-Invoking command in '/home/lucifer/ros2_ws/build/task_2_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/lucifer/ros2_ws/build/task_2_interface
-Invoked command in '/home/lucifer/ros2_ws/build/task_2_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/lucifer/ros2_ws/build/task_2_interface
