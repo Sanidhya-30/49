@@ -1,1 +1,0 @@
-/home/lucifer/ros2_ws/build/task_2_interface/rosidl_generator_cpp/task_2_interface/srv/joint_data.hpp

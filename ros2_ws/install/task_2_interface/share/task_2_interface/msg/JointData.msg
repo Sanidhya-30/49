@@ -1,1 +1,0 @@
-/home/lucifer/ros2_ws/src/task_2_interface/msg/JointData.msg

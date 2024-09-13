@@ -1,1 +1,0 @@
-/home/lucifer/ros2_ws/build/task_2_interface/rosidl_generator_py/task_2_interface/_task_2_interface_s.ep.rosidl_typesupport_c.c

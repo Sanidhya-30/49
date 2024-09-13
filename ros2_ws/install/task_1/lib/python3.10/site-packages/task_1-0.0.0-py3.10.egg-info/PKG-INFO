@@ -1,9 +1,0 @@
-Metadata-Version: 2.1
-Name: task_1
-Version: 0.0.0
-Summary: TODO: Package description
-Maintainer: lucifer
-Maintainer-email: shriva33@purdue.edu
-License: Apache-2.0
-License-File: LICENSE
-Requires-Dist: setuptools

@@ -1,1 +1,0 @@
-/home/lucifer/ros2_ws/build/task_2_interface/rosidl_typesupport_introspection_c/task_2_interface/msg/rosidl_typesupport_introspection_c__visibility_control.h
