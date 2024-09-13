@@ -1,0 +1,33 @@
+[0.847s] Invoking command in '/home/lucifer/ros2_ws/src/task_2': PYTHONPATH=/home/lucifer/ros2_ws/build/task_2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lucifer/ros2_ws/install/task_2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/task_2 build --build-base /home/lucifer/ros2_ws/build/task_2/build install --record /home/lucifer/ros2_ws/build/task_2/install.log --single-version-externally-managed install_data
+[1.082s] running egg_info
+[1.097s] writing ../../build/task_2/task_2.egg-info/PKG-INFO
+[1.097s] writing dependency_links to ../../build/task_2/task_2.egg-info/dependency_links.txt
+[1.098s] writing entry points to ../../build/task_2/task_2.egg-info/entry_points.txt
+[1.098s] writing requirements to ../../build/task_2/task_2.egg-info/requires.txt
+[1.098s] writing top-level names to ../../build/task_2/task_2.egg-info/top_level.txt
+[1.129s] reading manifest file '../../build/task_2/task_2.egg-info/SOURCES.txt'
+[1.130s] writing manifest file '../../build/task_2/task_2.egg-info/SOURCES.txt'
+[1.130s] running build
+[1.131s] running build_py
+[1.131s] copying task_2/publisher.py -> /home/lucifer/ros2_ws/build/task_2/build/lib/task_2
+[1.131s] copying task_2/subscriber.py -> /home/lucifer/ros2_ws/build/task_2/build/lib/task_2
+[1.131s] copying task_2/client.py -> /home/lucifer/ros2_ws/build/task_2/build/lib/task_2
+[1.131s] copying task_2/service.py -> /home/lucifer/ros2_ws/build/task_2/build/lib/task_2
+[1.132s] copying task_2/__init__.py -> /home/lucifer/ros2_ws/build/task_2/build/lib/task_2
+[1.132s] running install
+[1.136s] running install_lib
+[1.152s] copying /home/lucifer/ros2_ws/build/task_2/build/lib/task_2/client.py -> /home/lucifer/ros2_ws/install/task_2/lib/python3.10/site-packages/task_2
+[1.152s] byte-compiling /home/lucifer/ros2_ws/install/task_2/lib/python3.10/site-packages/task_2/client.py to client.cpython-310.pyc
+[1.153s] running install_data
+[1.153s] copying resource/task_2 -> /home/lucifer/ros2_ws/install/task_2/share/ament_index/resource_index/packages
+[1.153s] copying package.xml -> /home/lucifer/ros2_ws/install/task_2/share/task_2
+[1.153s] running install_egg_info
+[1.170s] removing '/home/lucifer/ros2_ws/install/task_2/lib/python3.10/site-packages/task_2-0.0.0-py3.10.egg-info' (and everything under it)
+[1.170s] Copying ../../build/task_2/task_2.egg-info to /home/lucifer/ros2_ws/install/task_2/lib/python3.10/site-packages/task_2-0.0.0-py3.10.egg-info
+[1.171s] running install_scripts
+[1.304s] Installing client script to /home/lucifer/ros2_ws/install/task_2/lib/task_2
+[1.304s] Installing listener script to /home/lucifer/ros2_ws/install/task_2/lib/task_2
+[1.304s] Installing service script to /home/lucifer/ros2_ws/install/task_2/lib/task_2
+[1.304s] Installing talker script to /home/lucifer/ros2_ws/install/task_2/lib/task_2
+[1.304s] writing list of installed files to '/home/lucifer/ros2_ws/build/task_2/install.log'
+[1.339s] Invoked command in '/home/lucifer/ros2_ws/src/task_2' returned '0': PYTHONPATH=/home/lucifer/ros2_ws/build/task_2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lucifer/ros2_ws/install/task_2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/task_2 build --build-base /home/lucifer/ros2_ws/build/task_2/build install --record /home/lucifer/ros2_ws/build/task_2/install.log --single-version-externally-managed install_data

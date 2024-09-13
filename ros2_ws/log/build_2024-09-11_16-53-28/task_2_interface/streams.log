@@ -1,0 +1,31 @@
+[1.004s] Invoking command in '/home/lucifer/ros2_ws/build/task_2_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/lucifer/ros2_ws/src/task_2_interface -DCMAKE_INSTALL_PREFIX=/home/lucifer/ros2_ws/install/task_2_interface
+[1.108s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.249s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.267s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.379s] -- Added test 'lint_cmake' to check CMake code style
+[1.383s] -- Added test 'xmllint' to check XML markup files
+[1.385s] -- Configuring done
+[1.393s] -- Generating done
+[1.396s] -- Build files have been written to: /home/lucifer/ros2_ws/build/task_2_interface
+[1.404s] Invoked command in '/home/lucifer/ros2_ws/build/task_2_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/lucifer/ros2_ws/src/task_2_interface -DCMAKE_INSTALL_PREFIX=/home/lucifer/ros2_ws/install/task_2_interface
+[1.409s] Invoking command in '/home/lucifer/ros2_ws/build/task_2_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/lucifer/ros2_ws/build/task_2_interface -- -j12 -l12
+[1.486s] Invoked command in '/home/lucifer/ros2_ws/build/task_2_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/lucifer/ros2_ws/build/task_2_interface -- -j12 -l12
+[1.560s] Invoking command in '/home/lucifer/ros2_ws/build/task_2_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/lucifer/ros2_ws/build/task_2_interface
+[1.572s] -- Install configuration: ""
+[1.573s] -- Execute custom install script
+[1.573s] -- Up-to-date symlink: /home/lucifer/ros2_ws/install/task_2_interface/share/ament_index/resource_index/package_run_dependencies/task_2_interface
+[1.574s] -- Up-to-date symlink: /home/lucifer/ros2_ws/install/task_2_interface/share/ament_index/resource_index/parent_prefix_path/task_2_interface
+[1.574s] -- Up-to-date symlink: /home/lucifer/ros2_ws/install/task_2_interface/share/task_2_interface/environment/ament_prefix_path.sh
+[1.574s] -- Up-to-date symlink: /home/lucifer/ros2_ws/install/task_2_interface/share/task_2_interface/environment/ament_prefix_path.dsv
+[1.575s] -- Up-to-date symlink: /home/lucifer/ros2_ws/install/task_2_interface/share/task_2_interface/environment/path.sh
+[1.575s] -- Up-to-date symlink: /home/lucifer/ros2_ws/install/task_2_interface/share/task_2_interface/environment/path.dsv
+[1.575s] -- Up-to-date symlink: /home/lucifer/ros2_ws/install/task_2_interface/share/task_2_interface/local_setup.bash
+[1.575s] -- Up-to-date symlink: /home/lucifer/ros2_ws/install/task_2_interface/share/task_2_interface/local_setup.sh
+[1.576s] -- Up-to-date symlink: /home/lucifer/ros2_ws/install/task_2_interface/share/task_2_interface/local_setup.zsh
+[1.576s] -- Up-to-date symlink: /home/lucifer/ros2_ws/install/task_2_interface/share/task_2_interface/local_setup.dsv
+[1.577s] -- Symlinking: /home/lucifer/ros2_ws/install/task_2_interface/share/task_2_interface/package.dsv
+[1.594s] -- Up-to-date symlink: /home/lucifer/ros2_ws/install/task_2_interface/share/ament_index/resource_index/packages/task_2_interface
+[1.594s] -- Up-to-date symlink: /home/lucifer/ros2_ws/install/task_2_interface/share/task_2_interface/cmake/task_2_interfaceConfig.cmake
+[1.594s] -- Up-to-date symlink: /home/lucifer/ros2_ws/install/task_2_interface/share/task_2_interface/cmake/task_2_interfaceConfig-version.cmake
+[1.594s] -- Up-to-date symlink: /home/lucifer/ros2_ws/install/task_2_interface/share/task_2_interface/package.xml
+[1.599s] Invoked command in '/home/lucifer/ros2_ws/build/task_2_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/lucifer/ros2_ws/build/task_2_interface

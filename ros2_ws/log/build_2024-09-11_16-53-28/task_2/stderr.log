@@ -1,0 +1,2 @@
+/home/lucifer/ros2_ws/install/task_2/lib/python3.10/site-packages/task_2/client.py:28: SyntaxWarning: 'str' object is not callable; perhaps you missed a comma?
+  mini_client.get_logger().info('Result of CheckSum is' (response.Valid))

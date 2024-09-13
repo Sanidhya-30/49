@@ -1,0 +1,19 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from task_2_interface/srv/JointData.srv
+// generated code does not contain a copyright notice
+
+
+module task_2_interface {
+  module srv {
+    struct JointData_Request {
+      float x;
+
+      float y;
+
+      float z;
+    };
+    struct JointData_Response {
+      boolean valid;
+    };
+  };
+};

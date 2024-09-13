@@ -1,0 +1,1 @@
+/home/lucifer/ros2_ws/build/task_2_interface/rosidl_generator_c/task_2_interface/msg/detail/joint_data__struct.h
