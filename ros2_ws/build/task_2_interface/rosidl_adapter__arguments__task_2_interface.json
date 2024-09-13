@@ -1,7 +1,0 @@
-{
-  "package_name": "task_2_interface",
-  "non_idl_tuples": [
-    "/home/lucifer/ros2_ws/src/task_2_interface:msg/JointData.msg",
-    "/home/lucifer/ros2_ws/src/task_2_interface:srv/JointData.srv"
-  ]
-}
